@@ -78,3 +78,6 @@ def bfs(start, target):
 
 print(bfs(n, k))
 print(*path[::-1])  # 뒤에서 부터 출력
+
+
+# 위의 코드가 왜안되는지 돚2ㅓ히 알 수가 없다.
